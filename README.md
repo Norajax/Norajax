@@ -1,12 +1,12 @@
 
-##Nora ICHOUIDEN FELLAH
+Nora ICHOUIDEN FELLAH
 
 Estudiante de Microinformática y Redes
 
 📧 Correo: noraichouiden@gmail.com
 
 
-##🔧 Habilidades
+🔧 Habilidades
 
 Redes: TCP/IP, DHCP, DNS, VPN
 
@@ -18,12 +18,12 @@ Lenguajes y Scripts: Bash, Python básico
 
 Herramientas:VirtualBox, Git
 
-##📂 Proyectos Destacados
+📂 Proyectos Destacados
 
 Pagina web - para alamacenar archivos 
 
 
-##🎯 Sobre mí
+🎯 Sobre mí
 
 Apasionado por la tecnología, la automatización y la seguridad de redes. Busco aprender, experimentar y contribuir a proyectos que mejoren infraestructuras IT.
 Participación en Hackathon de Redes y Seguridad 
