@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Norajax/Norajax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nora ICHOUIDEN FELLAH
+Estudiante de Microinformática y Redes
+📧 Correo: noraichouiden@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Habilidades
+
+Redes: TCP/IP, DHCP, DNS, VPN
+Sistemas Operativos: Windows, Linux
+Hardware y Microinformática: Mantenimiento de PC
+Lenguajes y Scripts: Bash, Python básico
+Herramientas:VirtualBox, Git
+
+📂 Proyectos Destacados
+
+Pagina web - para alamacenar archivos 
+
+
+🎯 Sobre mí
+
+Apasionado por la tecnología, la automatización y la seguridad de redes. Busco aprender, experimentar y contribuir a proyectos que mejoren infraestructuras IT.
+Participación en Hackathon de Redes y Seguridad 
