@@ -26,7 +26,7 @@ Herramientas:VirtualBox, Git
 
 ## 📂 Proyectos Destacados
 
-Pagina web - para alamacenar archivos 
+Pagina web - para almacenar archivos 
 
 
 ## Sobre mí
