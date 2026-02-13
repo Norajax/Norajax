@@ -23,7 +23,7 @@ Herramientas:VirtualBox, Git
 Pagina web - para alamacenar archivos 
 
 
-🎯 Sobre mí
+Sobre mí
 
-Apasionado por la tecnología, la automatización y la seguridad de redes. Busco aprender, experimentar y contribuir a proyectos que mejoren infraestructuras IT.
-Participación en Hackathon de Redes y Seguridad 
+Apasionada por la tecnología, la automatización y la seguridad de redes. Busco aprender, experimentar y contribuir a proyectos que mejoren infraestructuras IT.
+Participación Programacion y Seguridad 
