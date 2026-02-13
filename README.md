@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 Nora ICHOUIDEN FELLAH
+
 Estudiante de Microinformática y Redes
+
 📧 Correo: noraichouiden@gmail.com
 
 
 🔧 Habilidades
 
 Redes: TCP/IP, DHCP, DNS, VPN
+
 Sistemas Operativos: Windows, Linux
+
 Hardware y Microinformática: Mantenimiento de PC
+
 Lenguajes y Scripts: Bash, Python básico
+
 Herramientas:VirtualBox, Git
 
 📂 Proyectos Destacados
